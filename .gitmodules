@@ -1,0 +1,3 @@
+[submodule "moduletest2"]
+	path = moduletest2
+	url = https://github.com/kaepa3/moduletest2
