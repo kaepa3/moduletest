@@ -6,4 +6,4 @@ if __name__ == '__main__':
     print("-----nanzo------")
     print(sys.version)
     mod.AtBB()
-    mod.Call()
+    mosod.Call()
